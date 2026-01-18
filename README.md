@@ -58,7 +58,7 @@
 ---
 
 <div align="center">
-<img src="https://fishstrap.app/img/Showcase.webp" width="420">
+    <img src="https://fishstrap.app/img/Showcase.webp" width="700">
 </div>
 
 
