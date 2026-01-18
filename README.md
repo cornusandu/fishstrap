@@ -18,11 +18,17 @@
 > Any other websites offering downloads or claiming to be us are not controlled by us *(eg. fishstrap.org, fishstrap.com).* **Do not download from them.**
 
 ## What is it?
-*Fishstrap is a custom bootstrapper for Roblox based on [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap).*<br>
-*It aims to provide additional features to compliment **your** experience.*
+Fishstrap is an open-source custom bootstrapper for Roblox coded in C#, based on and forked from [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap).<br>
+It aims to provide additional features to compliment **your** experience.
+
+Additionally, Fishstrap is *safe to use*, and *will not get your account banned*.
 
 > [!TIP]
 > ***Found any bugs? Please [Submit an issue](https://github.com/fishstrap/fishstrap/issues/new/choose) or create a bug report in our [Discord server](https://discord.gg/SRs5zb9BJd).***
+
+## Are we active?
+**Indeed we are!**
+Fishstrap is still an emerging project that is worked on daily, so bug fixes come out quickly and *you* can get newer features faster! <br>
 
 ## Downloads
 ### **Latest Release:** [Download Here][repo-latest]
@@ -33,7 +39,7 @@
 > [!TIP]
 > You can use **[AppleBlox](https://github.com/AppleBlox/appleblox)** *(for MacOS)* or **[Sober](https://sober.vinegarhq.org/)** *(for Linux)*.
 > 
-> More experienced Linux users can use tools like **[Lution](https://github.com/wookhq/Lution)**, for example.
+> More experienced Linux users can also use tools like **[Lution](https://github.com/wookhq/Lution)**, for example.
 
 ## Feature List
 - Detailed server information **(Thanks to [RoValra](https://www.rovalra.com/))**
