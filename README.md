@@ -61,7 +61,7 @@
     <img src="https://fishstrap.app/img/Showcase.webp" width="700">
 </div>
 
-
+<p align="center">© Copyright 2024-2026, Licensed under the <b>MIT License</b></p>
 
 
 [badge-repo-license]:    https://img.shields.io/github/license/fishstrap/fishstrap?style=flat-square
